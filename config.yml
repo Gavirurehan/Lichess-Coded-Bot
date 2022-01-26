@@ -1,4 +1,4 @@
-token: "xxxxxxxxxxxxxxxx"    # Lichess OAuth2 Token.
+token: "lip_Kn5KbMacxbQcgaSwTQul"    # Lichess OAuth2 Token.
 url: "https://lichess.org/"  # Lichess base URL.
 
 engine:                      # Engine settings.
@@ -61,7 +61,7 @@ option name Use NNUE type check : true
 #     syzygy: "Syzygy Path"
 #  silence_stderr: false      # some engines (yes you, leela) are very noisy
 
-abort_time: 30               # time to abort a game in seconds when there is no activity
+abort_time: 60               # time to abort a game in seconds when there is no activity
 fake_think_time: false       # artificially slow down the bot to pretend like it's thinking
 
 challenge:                   # incoming challenges
